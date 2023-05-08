@@ -6,7 +6,8 @@ __[ 😄 INTRO 😄 ]__
  - Hi there! My name is MINJUNG KIM. 👋 <br/>
  - My dream is to be a [ WEB DEVELOPER ]. 🌱 <br/>
  - I Love [ ]. 🌱 <br/>
- 💬<br/>
+💬💬💬
+<br/>
 <br/><br/><br/><br/>
 
 
