@@ -16,7 +16,7 @@ __[ 📚 SKIILS 📚 ]__  <br/>
 
  - **Platforms** <br/>
 <div>
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div> <br/>
