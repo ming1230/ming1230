@@ -7,8 +7,7 @@ __[ 😄 INTRO 😄 ]__
  - My dream is to be a [ WEB DEVELOPER ]. 🌱 <br/>
  - I Love [ ]. 🌱 <br/>
 💬💬💬
-<br/>
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 
 
@@ -42,7 +41,7 @@ __[ 📚 SKIILS 📚 ]__  <br/>
 
 
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 __[ 📞 CONTACT 📞 ]__ <br/>
  - EMAIL : kming1230@naver.com
 
